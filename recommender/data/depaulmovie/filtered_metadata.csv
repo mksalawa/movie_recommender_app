@@ -1,0 +1,78 @@
+movie_id,title,director,genres,actor_1,actor_2,actor_3,plot_keywords,language,country,imdb_score
+0088763,Back to the Future,Robert Zemeckis,Adventure|Comedy|Sci-Fi,Lea Thompson,Thomas F. Wilson,J.J. Cohen,clock tower|delorean|future|time travel|time travel comedy,English,USA,8.5
+0109830,Forrest Gump,Robert Zemeckis,Comedy|Drama,Tom Hanks,Siobhan Fallon Hogan,Sam Anderson,amputee|love|vietnam|vietnam war|war hero,English,USA,8.8
+0110357,The Lion King,Roger Allers,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,Nathan Lane,Niketa Calame,king|prince|scar|uncle|unnecessary guilt,English,USA,8.5
+0110475,The Mask,Chuck Russell,Action|Comedy|Crime|Fantasy,Peter Greene,Amy Yasbeck,Reg E. Cathey,bank|bank clerk|gangster|loki|mask,English,USA,6.9
+0111161,The Shawshank Redemption,Frank Darabont,Crime|Drama,Morgan Freeman,Jeffrey DeMunn,Bob Gunton,escape from prison|first person narration|prison|prison cell search|wrongful imprisonment,English,USA,9.3
+0114148,Pocahontas,Mike Gabriel,Adventure|Animation|Drama|Family|History|Musical|Romance,Christian Bale,Frank Welker,Irene Bedard,actor playing multiple roles|love|one word title|unsubtitled foreign language|virginia,English,USA,6.6
+0114369,Se7en,David Fincher,Crime|Drama|Mystery|Thriller,Morgan Freeman,Brad Pitt,Reg E. Cathey,detective|police partner|serial killer|serial murder|seven deadly sins,English,USA,8.6
+0120338,Titanic,James Cameron,Drama|Romance,Leonardo DiCaprio,Kate Winslet,Gloria Stuart,artist|love|ship|titanic|wet,English,USA,7.7
+0120912,Men in Black II,Barry Sonnenfeld,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Will Smith,Rosario Dawson,Rip Torn,alien|lingerie|lingerie model|m.i.b.|pug,English,USA,6.1
+0125439,Notting Hill,Roger Michell,Comedy|Drama|Romance,Julia Roberts,Clarke Peters,Dylan Moran,actress|bookstore|friend|kiss|love,English,UK,7.0
+0133093,The Matrix,Lana Wachowski,Action|Sci-Fi,Keanu Reeves,Marcus Chong,Gloria Foster,artificial reality|computer|matrix|questioning reality|simulated reality,English,USA,8.7
+0138097,Shakespeare in Love,John Madden,Comedy|Drama|Romance,Tom Wilkinson,Martin Clunes,Simon Callow,actor|audition|muse|playwright|theater,English,USA,7.2
+0147800,10 Things I Hate About You,Gil Junger,Comedy|Drama|Romance,Joseph Gordon-Levitt,Heath Ledger,Andrew Keegan,dating|protective father|school|shrew|teen movie,English,USA,7.2
+0169547,American Beauty,Sam Mendes,Drama,Kevin Spacey,Peter Gallagher,Ara Celi,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,English,USA,8.4
+0181689,Minority Report,Steven Spielberg,Action|Mystery|Sci-Fi|Thriller,Tom Cruise,Frank Grillo,Jessica Capshaw,future|murder|neo noir|washington d.c.|year 2054,English,USA,7.7
+0211915,Amelie,Jean-Pierre Jeunet,Comedy|Romance,Mathieu Kassovitz,Jamel Debbouze,Isabelle Nanty,cheerfulness|female protagonist|garden gnome|magical realism|waitress,French,France,8.4
+0213149,Pearl Harbor,Michael Bay,Action|Drama|History|Romance|War,Jennifer Garner,Jaime King,Mako,air raid|black smoke|japanese military|japanese navy|sunday,English,USA,6.1
+0232500,The Fast and the Furious,Rob Cohen,Action|Crime|Thriller,Paul Walker,Vin Diesel,Jordana Brewster,eighteen wheeler|illegal street racing|truck|trucker|undercover cop,English,USA,6.7
+0266543,Finding Nemo,Andrew Stanton,Adventure|Animation|Comedy|Family,Alexander Gould,Stephen Root,Brad Garrett,great barrier reef|protective father|separation from family|shark|short term memory loss,English,USA,8.2
+0268380,Ice Age,Chris Wedge,Adventure|Animation|Comedy|Family,Goran Visnjic,Stephen Root,Denis Leary,baby|ice|ice age|sleeping|sloth,English,USA,7.6
+0289879,The Butterfly Effect,Eric Bress,Sci-Fi|Thriller,Logan Lerman,Eric Stoltz,Cameron Bright,blackout|child pornography|memory|surprise ending|time travel,English,USA,7.7
+0293662,The Transporter,Louis Leterrier,Action|Crime|Thriller,Jason Statham,Qi Shu,Matt Schulze,bar|gunfight|human trafficking|mixed martial arts|tire iron,English,France,6.8
+0315733,21 Grams,Alejandro G. Iñárritu,Drama,Naomi Watts,Eddie Marsan,Danny Huston,accident|faith|love|mathematician|nonlinear timeline,English,USA,7.7
+0319262,The Day After Tomorrow,Roland Emmerich,Action|Adventure|Sci-Fi|Thriller,Jake Gyllenhaal,Dennis Quaid,Sela Ward,climate|end of the world|global warming|natural disaster|weather,English,USA,6.4
+0327084,Over the Hedge,Tim Johnson,Adventure|Animation|Comedy|Family,Bruce Willis,Steve Carell,Catherine O'Hara,bear|food|forest|raccoon|turtle,English,USA,6.8
+0343660,50 First Dates,Peter Segal,Comedy|Romance,Adam Sandler,Peter Dante,Allen Covert,dream|hawaii|hawaiian shirt|short term memory loss|veterinarian,English,USA,6.8
+0356910,Mr. & Mrs. Smith,Doug Liman,Action|Comedy|Crime|Romance|Thriller,Brad Pitt,Angelina Jolie Pitt,Stephanie March,assassin|marriage|secret agent|suburb|target,English,USA,6.5
+0362165,Son of the Mask,Lawrence Guterman,Comedy|Family|Fantasy,Jamie Kennedy,Traylor Howard,Ben Stein,baby|cartoon on tv|cartoonist|dog|mask,English,USA,2.2
+0367594,Charlie and the Chocolate Factory,Tim Burton,Adventure|Comedy|Family|Fantasy,Johnny Depp,Christopher Lee,David Kelly,chocolate|diminution|miniaturization|physical flexability|ticket,English,USA,6.7
+0376541,Closer,Mike Nichols,Drama|Romance,Natalie Portman,Julia Roberts,Colin Stinton,cheating wife|film camera|hasselblad camera|leica camera|medium format camera,English,USA,7.3
+0378194,Kill Bill: Vol. 2,Quentin Tarantino,Action|Crime|Drama|Thriller,Vivica A. Fox,Michael Parks,Michael Bowen,assassin|assassination|bride|death|vengeance,English,USA,8.0
+0382625,The Da Vinci Code,Ron Howard,Mystery|Thriller,Tom Hanks,Seth Gabel,Jürgen Prochnow,based on supposedly true story|holy grail|mary magdalene|opus dei|secret,English,USA,6.6
+0388795,Brokeback Mountain,Ang Lee,Drama|Romance,Jake Gyllenhaal,Heath Ledger,Anne Hathaway,gay relationship|homosexuality|mountain|ranch|rodeo,English,USA,7.7
+0405422,The 40-Year-Old Virgin,Judd Apatow,Comedy|Romance,Steve Carell,Romany Malco,Gerry Bednob,40 year old|car accident|cheating on girlfriend|collection|porno movie,English,USA,7.1
+0407304,War of the Worlds,Steven Spielberg,Adventure|Sci-Fi|Thriller,Tom Cruise,Lisa Ann Walter,Rick Gonzalez,alien|fight|storm|survival|tripod,English,USA,6.5
+0413267,Shrek the Third,Chris Miller,Adventure|Animation|Comedy|Family|Fantasy,Justin Timberlake,Eric Idle,Rupert Everett,disney spoof|fairy tale|prince|princess|tough guy,English,USA,6.1
+0441773,Kung Fu Panda,Mark Osborne,Action|Adventure|Animation|Comedy|Family,Angelina Jolie Pitt,Wayne Knight,Dan Fogler,kung fu|kung fu master|master|panda|snow leopard,English,USA,7.6
+0454848,Inside Man,Spike Lee,Crime|Drama|Mystery|Thriller,Denzel Washington,James Ransone,Peter Gerety,bank|detective|negotiation|police|robber,English,USA,7.6
+0454876,Life of Pi,Ang Lee,Adventure|Drama|Fantasy,Suraj Sharma,Rafe Spall,Tabu,animal|faith|india|journey|tiger,English,USA,8.0
+0462538,The Simpsons Movie,David Silverman,Adventure|Animation|Comedy,Albert Brooks,Yeardley Smith,Marcia Wallace,alaska|dome|lake|pig|the simpsons,English,USA,7.4
+0489099,Jumper,Doug Liman,Action|Adventure|Sci-Fi|Thriller,Kristen Stewart,Hayden Christensen,Tom Hulce,bank|based on novel|ice|teleportation|vault,English,USA,6.1
+0800369,Thor,Kenneth Branagh,Action|Adventure|Fantasy,Chris Hemsworth,Natalie Portman,Anthony Hopkins,battle|marvel cinematic universe|scientist|thor|throne,English,USA,7.0
+0944835,Salt,Phillip Noyce,Action|Crime|Mystery|Thriller,Angelina Jolie Pitt,Andre Braugher,August Diehl,cia|on the run|russian|russian spy|strong female lead,English,USA,6.4
+0945513,Source Code,Duncan Jones,Mystery|Sci-Fi|Thriller,Jake Gyllenhaal,Cas Anvar,Russell Peters,bomber|time|time loop|train|trapped in a time loop,English,USA,7.5
+0993846,The Wolf of Wall Street,Martin Scorsese,Biography|Comedy|Crime|Drama,Leonardo DiCaprio,Matthew McConaughey,Jon Favreau,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,English,USA,8.2
+1041829,The Proposal,Anne Fletcher,Comedy|Drama|Romance,Ryan Reynolds,Denis O'Hare,Craig T. Nelson,alaska|deportation|father son relationship|male objectification|sitka alaska,English,USA,6.7
+1055369,Transformers: Revenge of the Fallen,Michael Bay,Action|Adventure|Sci-Fi,Glenn Morshower,Kevin Dunn,Ramon Rodriguez,autobot|decepticon|machine|sun|symbol,English,USA,6.0
+1068680,Yes Man,Peyton Reed,Comedy|Romance,Bradley Cooper,Zooey Deschanel,Danny Masterson,best friend|dvd|girlfriend|loan|self help,English,USA,6.8
+1099212,Twilight,Catherine Hardwicke,Drama|Fantasy|Romance,Kristen Stewart,Taylor Lautner,Anna Kendrick,blood|high school|love|school|vampire,English,USA,5.2
+1133985,Green Lantern,Martin Campbell,Action|Adventure|Sci-Fi,Ryan Reynolds,Temuera Morrison,Taika Waititi,autopsy|lantern|planet|ring|test pilot,English,USA,5.6
+1190080,2012,Roland Emmerich,Action|Adventure|Sci-Fi,Oliver Platt,Liam James,Tom McCarthy,ark|catastrophe|geologist|president|writer,English,USA,5.8
+1232829,21 Jump Street,Phil Lord,Action|Comedy|Crime,Channing Tatum,Dax Flame,Rob Riggle,narcotics|parody|police|remake|undercover cop,English,USA,7.2
+1291150,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Action|Adventure|Comedy|Sci-Fi,Noel Fisher,Danny Woodburn,Jeremy Howard,18 wheeler|mutant|ninja|sewer|turtle,English,USA,5.9
+1375666,Inception,Christopher Nolan,Action|Adventure|Sci-Fi|Thriller,Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt,ambiguous ending|corporate espionage|dream|subconscious|thief,English,USA,8.8
+1453405,Monsters University,Dan Scanlon,Adventure|Animation|Comedy|Family|Fantasy,Steve Buscemi,Tyler Labine,Sean Hayes,cheating|fraternity|monster|singing in a car|university,English,USA,7.3
+1478338,Bridesmaids,Paul Feig,Comedy|Romance,Matt Lucas,Wendi McLendon-Covey,Steve Bannos,best friend|failure|food|job|partial female nudity,English,USA,6.8
+1499658,Horrible Bosses,Seth Gordon,Comedy|Crime,Kevin Spacey,Lindsay Sloane,Reginald Ballard,black comedy|boss|chemical company|dental assistant|murder,English,USA,6.9
+1564367,Just Go with It,Dennis Dugan,Comedy|Romance,Adam Sandler,Bailee Madison,Kevin Nealon,chick flick|hawaii|love|plastic surgeon|woman wearing a string bikini,English,USA,6.4
+1596343,Fast Five,Justin Lin,Action|Crime|Thriller,Paul Walker,Vin Diesel,Dwayne Johnson,drug lord|drugs|federal agent|heist|police,English,USA,7.3
+1632708,Friends with Benefits,Will Gluck,Comedy|Romance,Mila Kunis,Justin Timberlake,Masi Oka,blow job|female rear nudity|girl in panties|male objectification|no panties,English,USA,6.6
+1637706,Our Idiot Brother,Jesse Peretz,Comedy|Drama,Zooey Deschanel,Adam Scott,Steve Coogan,art model|farmer|jail|nude model|three sisters,English,USA,6.4
+1707386,Les Miserables,Tom Hooper,Drama|Musical|Romance,Hugh Jackman,Eddie Redmayne,Anne Hathaway,barricade|innkeeper|parole|rebellion|student,English,USA,7.6
+1924435,Let's Be Cops,Luke Greenfield,Comedy,Rob Riggle,Damon Wayans Jr.,James D'Arcy,friendship between men|impersonating a police officer|mobster|party|police officer,English,USA,6.5
+2096673,Inside Out,Pete Docter,Adventure|Animation|Comedy|Drama|Family|Fantasy,Amy Poehler,Mindy Kaling,Phyllis Smith,anger|joy|memory|running away|sadness,English,USA,8.3
+2557490,A Million Ways to Die in the West,Seth MacFarlane,Comedy|Western,Liam Neeson,Charlize Theron,Seth MacFarlane,dancing sheep|fetish|musical scene|racial humor|snake poison,English,USA,6.1
+0816199,Heroes Are Born: Making 'The Fantastic Four',NA,Documentary,NA,NA,NA,supernatural power|human torch character|invisible woman the marvel comics character|superhuman speed|superhero,English,USA,6.0
+1369829,Mere Mortals: Hancock Behind-the-Scenes with Dirty Pete,NA,Documentary|Short,Peter Berg,NA,NA,NA,English,USA,
+1657301,The Legends of Robin Hood with Olly Steeds,Mitchell Tanen,Reality-TV,Olly Steeds,NA,NA,NA,English,USA,6.0
+2251227,Blackout,Matthew K. Hacker,Thriller,Timothy Woodward Jr.,Bill Oberst Jr.,Robert Covington,NA,English,USA,3.0
+2574698,Gunday,Ali Abbas Zafar,Action|Drama|Romance,Ranveer Singh,Arjun Kapoor,Priyanka Chopra,coal|1970s|no title at beginning|gangster|fight on train roof,Hindi|Bengali,India,2.2
+3203616,The Cobbler,Tom McCarthy,Comedy|Drama|Fantasy,Elli,Adam B. Shapiro,Evan Neumann, cobbler the shoemaker|coca cola|mother son relationship|adult lives at home|new york,English|Yiddish,USA,5.8
+3254460,AMC Prometheus Q & A,Corey Behnke,Talk-Show,Damon Lindelof,George Roush,Ridley Scott,tv special,English,USA,
+3510098,ITV at the Movies Avatar Special,Richard Leyland,Short,Sigourney Weaver,Sam Worthington,NA,tv special,English,UK,
+3637328,The Mint X-Change TV with Noah Neiman,Anthony Geathers,Short|Talk-Show,Noah Douglas Neiman,NA,NA,NA,English,USA,
+3793764,On the Black Carpet: The Hunger Games Premiere,NA,Documentary|Short,Jacqueline Emerson,Alexander Ludwig,Dayo Okeniyi,NA,English,USA,
+4052394,Godzilla: The Godzilla Revelation,Josh Oreck,Documentary|Short,NA,NA,NA,NA,English,USA,6.8
+3767682,The Hitch,Kristoffer Seland Hellesmark,Documentary,Christopher Hitchens,Fidel Castro,Richard Dawkins,NA,English,USA,7.8
